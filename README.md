@@ -49,7 +49,7 @@ Additionally, you are welcome to create any layout that you would like for your 
 ## Results
 
 
-https://github.com/dwaehner27/Plotly/blob/main/Image/Dashboard%20example.png?raw=true
+![image](https://user-images.githubusercontent.com/61367502/123520112-b53a9d80-d674-11eb-911f-79606907ce59.png)
 
 
 ## References
